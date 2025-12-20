@@ -1,5 +1,6 @@
 package overview;
 
+import overview.students.Student;
 import util.Input;
 
 import java.util.ArrayList;

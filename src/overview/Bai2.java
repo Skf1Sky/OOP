@@ -1,6 +1,8 @@
 package overview;
 
 
+import overview.fraction.Fraction;
+
 public class Bai2 {
     public static void main(String[] args) {
         Fraction fr1 = new Fraction();
