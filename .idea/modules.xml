@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/OOP.iml" filepath="$PROJECT_DIR$/.idea/OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss1_inther/ss1_inther.iml" filepath="$PROJECT_DIR$/ss1_inther/ss1_inther.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss2_polymorphism/ss2_polymorphism.iml" filepath="$PROJECT_DIR$/ss2_polymorphism/ss2_polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss3_abstract_interface/ss3_abstract_interface.iml" filepath="$PROJECT_DIR$/ss3_abstract_interface/ss3_abstract_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss4_dsalist/ss4_dsalist.iml" filepath="$PROJECT_DIR$/ss4_dsalist/ss4_dsalist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss5_mystack_myqueue/ss5_mystack_myqueue.iml" filepath="$PROJECT_DIR$/ss5_mystack_myqueue/ss5_mystack_myqueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss6_exception/ss6_exception.iml" filepath="$PROJECT_DIR$/ss6_exception/ss6_exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss7_setmap/ss7_setmap.iml" filepath="$PROJECT_DIR$/ss7_setmap/ss7_setmap.iml" />
+    </modules>
+  </component>
+</project>
