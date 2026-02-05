@@ -1,0 +1,6 @@
+Nguyen Van A, 10/20/1990, Ha Noi, 001, Bao hiem tu vong, Tron doi, 5000000, Bao ve, Mot lan, 01/15/2022, null, null, Truong hop tu ky, 2 nam, null
+Tran Thi B, 05/15/1995, Da Nang, 002, Bao hiem sinh ky, 10 nam, 12000000, Tich luy, Thang, 02/01/2023, 02/01/2033, null, null, null, 5 nam
+Le Van C, 12/12/1988, HCM, 003, Bao hiem thoi han, 20 nam, 8000000, Dau tu, Quy, 03/10/2021, 03/10/2041, Bao hiem tai nan, null, null, null
+Pham Van D, 30/02/2000, Hai Phong, 004, Bao hiem tu vong, Tron doi, 5000000, Bao ve, Mot lan, 01/15/2022, null, null, Truong hop tu ky, 2 nam, null
+Hoang Thi E, 01/01/1992, Can Tho, 005, Bao hiem sinh ky, 15 nam, 500, Tiet kiem, Nam, 05/05/2020, 05/05/2035, null, null, null, 3 nam
+Vu Van F, 07/07/1993, Hue, 006, Bao hiem tu vong, Tron doi, 6000000, Bao ve, Mot lan, 06/06/2021, 01/01/2050, San pham thua, Truong hop tu ky, 2 nam, null
