@@ -9,7 +9,7 @@ public class Main {
     public static void main(String[] args) {
         try {
 
-            FileReader fr = new FileReader("input.txt");
+            FileReader fr = new FileReader("test/input.txt");
             BufferedReader br = new BufferedReader(fr);
 
             FileWriter fw = new FileWriter("error.txt");

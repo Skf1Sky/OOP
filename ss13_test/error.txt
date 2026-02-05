@@ -1,0 +1,6 @@
+Pham Van D, 30/02/2000, Hai Phong, 004, Bao hiem tu vong, Tron doi, 5000000, Bao ve, Mot lan, 01/15/2022, null, null, Truong hop tu ky, 2 nam, null
+Loi: Ngay thang sai dinh dang; 
+Hoang Thi E, 01/01/1992, Can Tho, 005, Bao hiem sinh ky, 15 nam, 500, Tiet kiem, Nam, 05/05/2020, 05/05/2035, null, null, null, 3 nam
+Loi: Muc phi khong hop le; 
+Vu Van F, 07/07/1993, Hue, 006, Bao hiem tu vong, Tron doi, 6000000, Bao ve, Mot lan, 06/06/2021, 01/01/2050, San pham thua, Truong hop tu ky, 2 nam, null
+Loi: Du lieu thua cua goi tu vong; 
